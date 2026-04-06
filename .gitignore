@@ -11,3 +11,6 @@ gold/
 # Python 
 __pycache__/ 
 *.pyc 
+
+#extras
+pruebas_extras/
