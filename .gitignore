@@ -1,0 +1,13 @@
+# Entorno virtual 
+venv/ 
+.venv/ 
+# Credenciales 
+.env 
+# Delta Tables y datos 
+lakehouse/ 
+bronze/ 
+silver/ 
+gold/ 
+# Python 
+__pycache__/ 
+*.pyc 
